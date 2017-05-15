@@ -1,0 +1,30 @@
+h1{
+  color: red;
+  background-color: green;
+  text-align: center;
+}
+h2{
+  font-style:italic;
+  text-align:center;
+  color: blueviolet;
+
+}
+h3{
+  color: hotpink;
+}
+p{
+  font-family: sans-serif;
+}
+ul{
+  font-size:20px;
+  line-height: 30px;
+  text-align:left;
+}
+body{
+  background-color: lightblue;
+}
+ol{
+  font-size: 20px;
+  line-height: 30px;
+  text-align: left;
+}
